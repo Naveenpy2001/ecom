@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.containerProducts {
+  height: 350px;
+  border: 1px solid #3c3c3c;
+  padding: 20px;
+}
+.products {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.flex{
+    display: flex;
+}
